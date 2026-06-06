@@ -36,8 +36,8 @@ Welcome to my personal portfolio website. This project showcases my front-end de
 
 Feel free to reach out for collaboration opportunities or freelance projects.
 
-Email: m_mesgarzade@yahoo.com
-LinkedIn: https://www.linkedin.com/in/mohammad-mesgarzadeh-a5422837a/
+Email: m_mesgarzade@yahoo.com <br>
+LinkedIn: https://www.linkedin.com/in/mohammad-mesgarzadeh-a5422837a/ <br>
 GitHub: https://github.com/mohammad-mesgarzadeh
 
 - get in touch with me via *mohammadmesgarzadeh8@gmail.com*
